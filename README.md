@@ -1,10 +1,10 @@
 # SmartFly Intelligent Following Aerial Photography and Wind Speed Measurement of Flight Control System
 
-SmartFly Intelligent Following Aerial Photography and Wind Speed Measurement of Flight Control System
-
 Author: [Luis Li](https://www.l1997i.com)
 
 E-mail: [9161040G0320@njust.edu.cn](mailto:9161040G0320@njust.edu.cn)
+
+Group Members: **Hongtao Ge** and **Feng Chang**
 
 Supervisor: [Hong Gu](mailto:guhong@mail.njust.edu.cn)
 
