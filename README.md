@@ -6,6 +6,8 @@ Author: [Luis Li](https://www.l1997i.com)
 
 E-mail: [9161040G0320@njust.edu.cn](mailto:9161040G0320@njust.edu.cn)
 
+Supervisor: [Hong Gu](mailto:guhong@mail.njust.edu.cn)
+
 Institution: [Nanjing University of Science and Technology](https://www.njust.edu.cn)
 
 ## Abstract
@@ -59,13 +61,17 @@ The system is used to assist ground stations to control civilian UAVs/drones, ma
     <h5 id="title" align="center">We have a strong team spirit. Without the joint efforts of ourselves, we cannot complete such a large-scale project independently. From left to right, Hongtao Ge, Luis Li and Feng Chang.</h5>
 </br>
 
+The demo video can be found in:
+
+- [Detection & Automatic Following](video/detectionAndFollowing_0408.mov)
+- [Test Flight](video/testFight_0408.mov)
+
+## Funding Information
+
+**This is NOT a open source project and all the achievements are protected by the software copyright. The project is funded by Nanjing University of Science and Technology (NJUST).**
+
 <br>
 <p align="center">
     <img src="fig/SwCopyrightRegCertificate.JPG" width="60%"/>
     <h5 id="title" align="center">The Software Copyright Registration Certificate</h5>
 </br>
-
-The demo video can be found in:
-
-- [Detection & Automatic Following](video/detectionAndFollowing_0408.mov)
-- [Test Flight](video/testFight_0408.mov)
